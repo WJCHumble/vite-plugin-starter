@@ -6,7 +6,8 @@ Integrated capabilities as show below:
 
 - TypeScript
 - Jest
-- Git Action, it's use the workflow to automatically publish npm.
+- Eslint
+- Git Action, it's use the workflow to automatically publish npm
 
 ## Usage
 
