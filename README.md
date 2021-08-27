@@ -31,7 +31,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 
 **3.Create the secrets of NPM_AUTH_TOKEN**
 
-because of git action must used the NPM Token to automatically publish npm, so you should generate your the NPM Token, and then add to your repo's settings->secrets.
+Because of git action must used the NPM Token to automatically publish npm, so you should generate your the NPM Token, and then add to your repo's settings->secrets.
 
 >Note, the secrets must name to NPM_AUTH_TOKEN.
 
