@@ -11,9 +11,7 @@ Integrated capabilities as show below:
 
 ## Usage
 
-**1.Clone repo**
-
-Cloned this repo, and rewrite the attributes of package.json which is relate with you, such as `author`、`description` and so on.
+**1.Use this template**
 
 
 **2.Write author name in LICENSE**
